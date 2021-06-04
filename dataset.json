@@ -1,0 +1,1376 @@
+[
+      {
+            "n": {
+                  "downloadurl": "http://cs.nyu.edu/~kcho/DMQA/", 
+                  "name": "CNN / Daily Mail", 
+                  "paper": "Teaching Machines to Read and Comprehend", 
+                  "provider": [
+                        "Karl Moritz Hermann"
+                  ], 
+                  "task": "文本摘要", 
+                  "year": 2015
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://drive.google.com/file/d/0B6N7tANPyVeBNmlSX19Ld2xDU1E/view", 
+                  "name": "Gigaword", 
+                  "paper": "A Neural Attention Model for Abstractive Sentence Summarization", 
+                  "provider": [
+                        "Rush Alexander M.", 
+                        "Chopra Sumit", 
+                        "Weston Jason"
+                  ], 
+                  "task": "文本摘要", 
+                  "year": 2015
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/EdinburghNLP/XSum", 
+                  "name": "X-Sum", 
+                  "paper": "Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization", 
+                  "provider": [
+                        "Shashi Narayan", 
+                        "Shay B. Cohen", 
+                        "Mirella Lapata"
+                  ], 
+                  "task": "文本摘要", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://duc.nist.gov/duc2004/", 
+                  "name": "DUC 2004 Task 1", 
+                  "paper": "None", 
+                  "provider": "National Institute of Standards and Technology", 
+                  "task": "文本摘要", 
+                  "year": 2004
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://zenodo.org/record/1168855#.X_59YTSwNPY", 
+                  "name": "Webis-TLDR-17 Corpus", 
+                  "paper": "TL;DR: Mining Reddit to Learn Automatic Summarization", 
+                  "provider": [
+                        "Michael Volske", 
+                        "Martin Potthast", 
+                        "Shahbaz Syed", 
+                        "Benno Stein"
+                  ], 
+                  "task": "文本摘要", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://dl.fbaipublicfiles.com/anli/anli_v1.0.zip", 
+                  "name": "Adversarial NLI", 
+                  "paper": "Adversarial NLI: A New Benchmark for Natural Language Understanding", 
+                  "provider": [
+                        "Yixin Nie", 
+                        "Adina Williams", 
+                        "Emily Dinan", 
+                        "Mohit Bansal", 
+                        "Jason Weston", 
+                        "Douwe Kiela"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/google-research-datasets/boolean-questions", 
+                  "name": "boolean-questions", 
+                  "paper": "BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions", 
+                  "provider": [
+                        "Christopher Clark", 
+                        "Google AI Language"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/facebookresearch/clutrr", 
+                  "name": "CLUTRR", 
+                  "paper": "CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text", 
+                  "provider": [
+                        "Koustuv Sinha", 
+                        "Shagun Sodhani", 
+                        "Jin Dong", 
+                        "Joelle Pineau", 
+                        "andWilliam L. Hamilton"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/Websail-NU/CODAH", 
+                  "name": "CODAH", 
+                  "paper": "CODAH: An Adversarially-Authored Question Answering Dataset for Common Sense", 
+                  "provider": [
+                        "Michael Chen", 
+                        "Mike D’Arcy", 
+                        "Alisa Liu", 
+                        "Jared Fernandez", 
+                        "Doug Downey"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://stanfordnlp.github.io/coqa/", 
+                  "name": "CoQA", 
+                  "paper": "CoQA: A Conversational Question Answering Challenge", 
+                  "provider": [
+                        "Siva Reddy", 
+                        "Danqi Chen", 
+                        "Christopher D. Manning"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://allennlp.org/drop", 
+                  "name": "DROP", 
+                  "paper": "DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs", 
+                  "provider": [
+                        "Dheeru Dua", 
+                        "Yizhong Wang", 
+                        "Pradeep Dasigi", 
+                        "Gabriel Stanovsky", 
+                        "Sameer Singh", 
+                        "Matt Gardner"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/lgw863/LogiQA-dataset", 
+                  "name": "LogiQA", 
+                  "paper": "LogiQA: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning", 
+                  "provider": [
+                        "Jian Liu", 
+                        "Leyang Cui", 
+                        "Hanmeng Liu", 
+                        "Dandan Huang", 
+                        "Yile Wang", 
+                        "Yue Zhang"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/allenai/qasc", 
+                  "name": "QASC", 
+                  "paper": "QASC: A Dataset for Question Answering via Sentence Composition", 
+                  "provider": [
+                        "Tushar Khot", 
+                        "Peter Clark", 
+                        "Michal Guerquin", 
+                        "Peter Jansen", 
+                        "Ashish Sabharwal"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://allenai.org/data/quartz", 
+                  "name": "QUARTZ", 
+                  "paper": "QUARTZ: An Open-Domain Dataset of Qualitative Relationship Questions", 
+                  "provider": [
+                        "Tushar Khot", 
+                        "Peter Clark", 
+                        "Michal Guerquin", 
+                        "Peter Jansen", 
+                        "Ashish Sabharwal"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/yuweihao/reclor", 
+                  "name": "RECLOR", 
+                  "paper": "ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning", 
+                  "provider": [
+                        "Weihao Yu", 
+                        "Zihang Jiang", 
+                        "Yanfei Dong", 
+                        "Jiashi Feng"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://leaderboard.allenai.org/socialiqa/submissions/get-started", 
+                  "name": "Social IQA", 
+                  "paper": "SocialIQA: Commonsense Reasoning about Social Interactions", 
+                  "provider": [
+                        "Maarten Sap", 
+                        "Hannah Rashkin", 
+                        "Derek Chen", 
+                        "Ronan Le Bras", 
+                        "Yejin Choi"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/hotpotqa/hotpot", 
+                  "name": "HotpotQA", 
+                  "paper": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering", 
+                  "provider": [
+                        "Zhilin Yang", 
+                        "Peng Qi", 
+                        "Saizheng Zhang", 
+                        "Yoshua Bengio", 
+                        "William W. Cohen", 
+                        "Ruslan Salakhutdinov", 
+                        "Christopher D. Manning"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "http://abductivecommonsense.xyz/", 
+                  "name": "ART", 
+                  "paper": "Abductive Commonsense Reasoning", 
+                  "provider": [
+                        "Chandra Bhagavatula", 
+                        "Ronan Le Bras", 
+                        "Chaitanya Malaviya", 
+                        "Keisuke Sakaguchi", 
+                        "Ari Holtzman", 
+                        "Hannah Rashkin", 
+                        "Doug Downey", 
+                        "Scott Wen-tau Yih", 
+                        "Yejin Choi"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/awslabs/fever", 
+                  "name": "FEVER", 
+                  "paper": "FEVER: a Large-scale Dataset for Fact Extraction and VERification", 
+                  "provider": [
+                        "James Thorne", 
+                        "Andreas Vlachos", 
+                        "Christos Christodoulopoulos", 
+                        "Arpit Mittal"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://rajpurkar.github.io/SQuAD-explorer/", 
+                  "name": "SQuAD v2.0", 
+                  "paper": "Know What You Don’t Know: Unanswerable Questions for SQuAD", 
+                  "provider": [
+                        "Pranav Rajpurkar", 
+                        "Robin Jia", 
+                        "Percy Liang"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://rajpurkar.github.io/SQuAD-explorer/", 
+                  "name": "SQuAD v1.1", 
+                  "paper": "SQuAD: 100,000+ Questions for Machine Comprehension of Text", 
+                  "provider": [
+                        "Pranav Rajpurkar", 
+                        "Jian Zhang", 
+                        "Konstantin Lopyrev", 
+                        "Percy Liang"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2016
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://gluebenchmark.com/", 
+                  "name": "GLUE", 
+                  "paper": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding", 
+                  "provider": [
+                        "Alex Wang", 
+                        "Amanpreet Singh", 
+                        "Julian Michael", 
+                        "Felix Hill", 
+                        "Omer Levy", 
+                        "Samuel R. Bowman"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://www.cs.cmu.edu/~glai1/data/race/", 
+                  "name": "RACE", 
+                  "paper": "RACE: Large-scale ReAding Comprehension Dataset From Examinations", 
+                  "provider": [
+                        "Guokun Lai", 
+                        "Qizhe Xie", 
+                        "Hanxiao Liu", 
+                        "Yiming Yang", 
+                        "Eduard Hovy"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/rowanz/swagaf", 
+                  "name": "SWAG", 
+                  "paper": "Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference", 
+                  "provider": [
+                        "Rowan Zellers", 
+                        "Yonatan Bisk", 
+                        "Roy Schwartz", 
+                        "Yejin Choi"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/poojahira/image-captioning-bottom-up-top-down", 
+                  "name": "image-captioning-bottom-up-top-down", 
+                  "paper": "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering.", 
+                  "provider": [
+                        "Pooja Hiranandani"
+                  ], 
+                  "task": "视觉场景理解", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/Wangt-CN/VC-R-CNN", 
+                  "name": "VC-R-CNN", 
+                  "paper": "Visual Commonsense R-CNN", 
+                  "provider": [
+                        "Wang Tan"
+                  ], 
+                  "task": "视觉推理", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/husthuaan/AoANet", 
+                  "name": "AoANet", 
+                  "paper": "Attention on Attention for Image Captioning", 
+                  "provider": [
+                        "Lun Huang"
+                  ], 
+                  "task": "确定注意力结果和查询结果的相关性", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/Gitsamshi/WeakVRD-Captioning", 
+                  "name": "WeakVRD-Captioning", 
+                  "paper": "Improving Image Captioning with Better Use of Captions", 
+                  "provider": [
+                        "Gitsamshi"
+                  ], 
+                  "task": "图像字幕", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/aimagelab/meshed-memory-transformer", 
+                  "name": "meshed-memory-transformer", 
+                  "paper": "Meshed-Memory Transformer for Image Captioning", 
+                  "provider": [
+                        "AImageLab"
+                  ], 
+                  "task": "图像字幕", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/JDAI-CV/image-captioning", 
+                  "name": "image-captioning", 
+                  "paper": "X-Linear Attention Networks for Image Captioning", 
+                  "provider": [
+                        "JDAI Computer Vision"
+                  ], 
+                  "task": "跨模态内容理解", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/microsoft/Oscar", 
+                  "name": "Oscar", 
+                  "paper": "Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks", 
+                  "provider": [
+                        "Microsoft"
+                  ], 
+                  "task": "多模态预训练", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/studio-ousia/luke", 
+                  "name": "luke", 
+                  "paper": "LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention", 
+                  "provider": [
+                        "Ikuya Yamada"
+                  ], 
+                  "task": "嵌入语言理解", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/ShannonAI/mrc-for-flat-nested-ner", 
+                  "name": "mrc-for-flat-nested-ner", 
+                  "paper": "A Unified MRC Framework for Named Entity Recognition", 
+                  "provider": [
+                        "Yuxian Meng"
+                  ], 
+                  "task": "嵌套型的NER", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/juntaoy/biaffine-ner", 
+                  "name": "biaffine-ner", 
+                  "paper": "Named Entity Recognition as Dependency Parsing", 
+                  "provider": [
+                        "Juntao Yu"
+                  ], 
+                  "task": "命名实体识别", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/LorrinWWW/two-are-better-than-one", 
+                  "name": "two-are-better-than-one", 
+                  "paper": "Two are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders", 
+                  "provider": [
+                        "Jue WANG"
+                  ], 
+                  "task": "提取实体和实体关系", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/slczgwh/REDN", 
+                  "name": "REDN", 
+                  "paper": "Downstream Model Design of Pre-trained Language Model for Relation Extraction Task", 
+                  "provider": [
+                        "slczgwh"
+                  ], 
+                  "task": "关系抽取", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/ShannonAI/Self_Explaining_Structures_Improve_NLP_Models", 
+                  "name": "Self_Explaining_Structures_Improve_NLP_Models", 
+                  "paper": "Self-Explaining Structures Improve NLP Models", 
+                  "provider": [
+                        "zijunsun"
+                  ], 
+                  "task": "自然语言推理", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/google-research/text-to-text-transfer-transformer", 
+                  "name": "text-to-text-transfer-transformer", 
+                  "paper": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer", 
+                  "provider": [
+                        "Google Research"
+                  ], 
+                  "task": "探索迁移学习", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/facebookresearch/SpanBERT", 
+                  "name": "SpanBERT", 
+                  "paper": "SpanBERT: Improving Pre-training by Representing and Predicting Spans", 
+                  "provider": [
+                        "Facebook Research"
+                  ], 
+                  "task": "改进BERT模型", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/yuwfan/HGN", 
+                  "name": "HGN", 
+                  "paper": "Hierarchical Graph Network for Multi-hop Question Answering", 
+                  "provider": [
+                        "Yuwei"
+                  ], 
+                  "task": "多跳QA任务", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://visualgenome.org/", 
+                  "name": "Visual Genome", 
+                  "paper": "Visual Genome Connecting Language and Vision Using Crowdsourced Dense Image Annotations", 
+                  "provider": [
+                        "Ranjay Krishna", 
+                        "Yuke Zhu", 
+                        "Oliver Groth", 
+                        "Kenji Hata", 
+                        "Yannis Kalantidis", 
+                        "Jia Li", 
+                        "D. Ayman Shamma", 
+                        "Michael Bernstein", 
+                        "Fei-Fei Li"
+                  ], 
+                  "task": "Image Captioning", 
+                  "year": 2015
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://cocodataset.org/#home", 
+                  "name": "Microsoft COCO", 
+                  "paper": "Microsoft COCO: Common Objects in Context", 
+                  "provider": [
+                        "Tsung-Yi Lin", 
+                        "Genevieve Patterson", 
+                        "Matteo R. Ronchi", 
+                        "Yin Cui", 
+                        "Michael Maire", 
+                        "Serge Belongie", 
+                        "Lubomir Bourdev", 
+                        "Ross Girshick", 
+                        "James Hays", 
+                        "Pietro Perona", 
+                        "Deva Ramanan", 
+                        "Larry Zitnick", 
+                        "Piotr Dollár"
+                  ], 
+                  "task": "Image Captioning", 
+                  "year": 2015
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://visualqa.org/", 
+                  "name": "VQA v2.0", 
+                  "paper": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering", 
+                  "provider": [
+                        "Yash Goyal", 
+                        "Tejas Khot", 
+                        "Douglas Summers-Stay", 
+                        "Dhruv Batra", 
+                        "Devi Parikh"
+                  ], 
+                  "task": "Image Captioning", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://visualcommonsense.com/", 
+                  "name": "Visual Commonsense Reasoning", 
+                  "paper": "From Recognition to Cognition: Visual Commonsense Reasoning", 
+                  "provider": [
+                        "Rowan Zellers", 
+                        "Yonatan Bisk", 
+                        "Ali Farhadi", 
+                        "Yejin Choi"
+                  ], 
+                  "task": "Image Captioning", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://nocaps.org/", 
+                  "name": "Nocaps", 
+                  "paper": "nocaps: novel object captioning at scale", 
+                  "provider": [
+                        "Harsh Agrawal", 
+                        "Karan Desai", 
+                        "Yufei Wang", 
+                        "Xinlei Chen", 
+                        "Rishabh Jain", 
+                        "Mark Johnson", 
+                        "Dhruv Batra", 
+                        "Devi Parikh", 
+                        "Stefan Lee", 
+                        "Peter Anderson"
+                  ], 
+                  "task": "Image Captioning", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://opensource.google/projects/open-images-dataset", 
+                  "name": "Open Images", 
+                  "paper": "The Open Images Dataset V4", 
+                  "provider": [
+                        "Google AI"
+                  ], 
+                  "task": "Image classification, object detection and visual relationship detection", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://www.cs.utexas.edu/~eunsol/html_pages/open_entity.html", 
+                  "name": "Open Entity", 
+                  "paper": "Ultra-Fine Entity Typing ", 
+                  "provider": [
+                        "Eunsol Choi", 
+                        "Omer Levy", 
+                        "Yejin Choi", 
+                        "Luke Zettlemoyer"
+                  ], 
+                  "task": "Information Extraction", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://sheng-z.github.io/ReCoRD-explorer/", 
+                  "name": "ReCoRD", 
+                  "paper": "ReCoRD: Bridging the Gap between Human and Machine Commonsense Reading Comprehension", 
+                  "provider": [
+                        "Sheng Zhang", 
+                        "Xiaodong Liu", 
+                        "Jingjing Liu", 
+                        "Jianfeng Gao", 
+                        "Kevin Duh", 
+                        "Benjamin Van Durme"
+                  ], 
+                  "task": "Common Sense Reasoning", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://nlp.stanford.edu/projects/tacred/", 
+                  "name": "TACRED", 
+                  "paper": "Position-aware Attention and Supervised Data Improve Slot Filling", 
+                  "provider": [
+                        "Yuhao Zhang", 
+                        "Victor Zhong", 
+                        "Danqi Chen", 
+                        "Gabor Angeli", 
+                        "Christopher D. Manning"
+                  ], 
+                  "task": "Common Sense Reasoning", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://www.clips.uantwerpen.be/conll2003/", 
+                  "name": "CoNLL-2003", 
+                  "paper": "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition", 
+                  "provider": [
+                        "Erik F. Tjong Kim Sang", 
+                        "Fien De Meulder"
+                  ], 
+                  "task": "Entity recognition", 
+                  "year": 2003
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "http://www.geniaproject.org/genia-corpus", 
+                  "name": "GENIA", 
+                  "paper": "Nested Named Entity Recognition Revisited", 
+                  "provider": [
+                        "Arzoo Katiyar", 
+                        "Claire Cardie"
+                  ], 
+                  "task": "Named Entity Recognition", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://tac.nist.gov/2017/KBP/data.html", 
+                  "name": "KBP 2017", 
+                  "paper": "Sequence-to-Nuggets: Nested Entity Mention Detection via Anchor-Region Networks", 
+                  "provider": [
+                        "National Institute of Standards and Technology"
+                  ], 
+                  "task": "Named Entity Recognition", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://catalog.ldc.upenn.edu/LDC2006T06", 
+                  "name": "ACE 2005", 
+                  "paper": "ACE 2005 Multilingual Training Corpus", 
+                  "provider": [
+                        "Christopher Walker", 
+                        "Stephanie Strassel", 
+                        "Julie Medero", 
+                        "Kazuaki Maeda"
+                  ], 
+                  "task": "Automatic content extraction", 
+                  "year": 2006
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://catalog.ldc.upenn.edu/LDC2005T09", 
+                  "name": "ACE 2004", 
+                  "paper": "The Automatic Content Extraction (ACE) Program Tasks, Data, and Evaluation", 
+                  "provider": [
+                        "Alexis Mitchell", 
+                        "Stephanie Strassel", 
+                        "Shudong Huang", 
+                        "Ramez Zakhary"
+                  ], 
+                  "task": "Automatic content extraction", 
+                  "year": 2005
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://catalog.ldc.upenn.edu/LDC2013T19", 
+                  "name": "OntoNotes 5.0", 
+                  "paper": "Towards Robust Linguistic Analysis Using OntoNotes", 
+                  "provider": [
+                        "Ralph Weischedel", 
+                        "Martha Palmer", 
+                        "Mitchell Marcus", 
+                        "Eduard Hovy", 
+                        "Sameer Pradhan", 
+                        "Lance Ramshaw", 
+                        "Lance Ramshaw", 
+                        "Ann Taylor", 
+                        "Jeff Kaufman", 
+                        "Michelle Franchini", 
+                        "Mohammed El-Bachouti", 
+                        "Robert Belvin", 
+                        "Ann Houston"
+                  ], 
+                  "task": "Named Entity Recognition", 
+                  "year": 2013
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://catalog.ldc.upenn.edu/LDC2011T03", 
+                  "name": "OntoNotes 4.0", 
+                  "paper": "CoNLL-2011 Shared Task:Modeling Unrestricted Coreference in OntoNotes", 
+                  "provider": [
+                        "Sameer Pradhan", 
+                        "Lance Ramshaw", 
+                        "Mitchell Marcus", 
+                        "Martha Palmer", 
+                        "Ralph Weischedel", 
+                        "Nianwen Xue"
+                  ], 
+                  "task": "Named Entity Recognition", 
+                  "year": 2011
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://www.microsoft.com/en-us/download/details.aspx?id=52531", 
+                  "name": "MSRA", 
+                  "paper": "The Third International Chinese Language Processing Bakeoff:Word Segmentation and Named Entity Recognition", 
+                  "provider": [
+                        "Gina-Anne Levow"
+                  ], 
+                  "task": "Named Entity Recognition", 
+                  "year": 2006
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://groups.csail.mit.edu/vision/datasets/ADE20K/", 
+                  "name": "ADE", 
+                  "paper": "Development of a Benchmark Corpus to Support the Automatic Extraction of Drug‐related Adverse Effects from Medical Case Reports", 
+                  "provider": [
+                        "Harsha Gurulingappa", 
+                        "Abdul Mateen", 
+                        "Angus Roberts", 
+                        "Juliane Fluck"
+                  ], 
+                  "task": "Named Entity Recognition", 
+                  "year": 2012
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://www.kaggle.com/drtoshi/semeval2010-task-8-dataset", 
+                  "name": "SemEval-2010 Task 8", 
+                  "paper": "SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals", 
+                  "provider": [
+                        "Iris Hendrickx", 
+                        "Su Nam Kim", 
+                        "Zornitsa Kozareva", 
+                        "Preslav Nakov", 
+                        "Diarmuid O Seaghdha", 
+                        "Sebastian Pado", 
+                        "Marco Pennacchiotti", 
+                        "Lorenza Romano", 
+                        "Stan Szpakowicz"
+                  ], 
+                  "task": "Relation Extraction", 
+                  "year": 2010
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "http://iesl.cs.umass.edu/riedel/ecml/", 
+                  "name": "NYT", 
+                  "paper": "Modeling Relations and Their Mentions without Labeled Text ", 
+                  "provider": [
+                        "Sebastian Riede", 
+                        "Limin Yao", 
+                        " Andrew McCallum"
+                  ], 
+                  "task": "Relation Extraction", 
+                  "year": 2010
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://webnlg-challenge.loria.fr/challenge_2017/", 
+                  "name": "WebNLG 2017", 
+                  "paper": "Creating Training Corpora for NLG Micro-Planning", 
+                  "provider": [
+                        "Claire Gardent", 
+                        "Anastasia Shimorina", 
+                        "Shashi Narayan", 
+                        "Laura Perez-Beltrachini"
+                  ], 
+                  "task": "Relation Extraction", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://nlp.stanford.edu/sentiment/", 
+                  "name": "SST-5", 
+                  "paper": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank", 
+                  "provider": [
+                        "Richard Socher", 
+                        "Alex Perelygin", 
+                        "Jean Y. Wu", 
+                        "Jason Chuang", 
+                        "Christopher D. Manning", 
+                        "Andrew Y. Ng and Christopher Potts"
+                  ], 
+                  "task": "Sentiment Analysis", 
+                  "year": 2013
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://nlp.stanford.edu/sentiment/", 
+                  "name": "SNLI", 
+                  "paper": "A large annotated corpus for learning natural language inference", 
+                  "provider": [
+                        "Samuel R. Bowman", 
+                        "Gabor Angeli", 
+                        "Christopher Potts", 
+                        "Christopher D. Manning"
+                  ], 
+                  "task": "Natural language inference", 
+                  "year": 2015
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://sites.google.com/site/iwsltevaluation2014/", 
+                  "name": "IWSLT2014 En→De", 
+                  "paper": "None", 
+                  "provider": [
+                        "IWSLT committee"
+                  ], 
+                  "task": "Natural language inference", 
+                  "year": 2014
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://www.imdb.com/interfaces/", 
+                  "name": "IMDB", 
+                  "paper": "Learning Word Vectors for Sentiment Analysis", 
+                  "provider": [
+                        "Andrew L. Maas", 
+                        "Raymond E. Daly", 
+                        "Peter T. Pham", 
+                        "Dan Huang", 
+                        "Andrew Y. Ng", 
+                        "Christopher Potts"
+                  ], 
+                  "task": "Binary sentiment classification", 
+                  "year": 2011
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://allenai.org/data/scitail", 
+                  "name": "SciTail", 
+                  "paper": "SciTail: A Textual Entailment Dataset from Science Question Answering", 
+                  "provider": [
+                        "Tushar Khot", 
+                        "Ashish Sabharwal", 
+                        "Peter Clark ", 
+                        "Dan Huang"
+                  ], 
+                  "task": "Textual entailment", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/mrqa/MRQA-Shared-Task-2019", 
+                  "name": "MRQA", 
+                  "paper": "MRQA 2019 Shared Task:Evaluating Generalization in Reading Comprehension", 
+                  "provider": [
+                        "Adam Fisch", 
+                        "Alon Talmor", 
+                        "Robin Jia ", 
+                        "Minjoon Seo", 
+                        "Eunsol Choi", 
+                        "Danqi Chen"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://noisy-text.github.io/2017/emerging-rare-entities.html", 
+                  "name": "WNUT2017", 
+                  "paper": "Results of the WNUT2017 Shared Task on Novel and Emerging Entity Recognition", 
+                  "provider": [
+                        "Leon Derczynski", 
+                        "Eric Nichols", 
+                        "Marieke van Erp", 
+                        "Nut Limsopatham"
+                  ], 
+                  "task": "Named Entity Recognition", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "http://www.statmt.org/wmt16/index.html", 
+                  "name": "WMT2016", 
+                  "paper": "Findings of the 2016 Conference on Machine Translation (WMT16)", 
+                  "provider": [
+                        "Ondrej Bojar", 
+                        "Rajen Chatterjee", 
+                        "Christian Federmann", 
+                        "Yvette Graham", 
+                        "Barry Haddow", 
+                        "Matthias Huck", 
+                        "Antonio Jimeno Yepes", 
+                        "Philipp Koehn", 
+                        "Varvara Logacheva", 
+                        "Christof Monz", 
+                        "Matteo Negri", 
+                        "Aurelie Neveol", 
+                        "Mariana Neves", 
+                        "Martin Popel", 
+                        "Matt Post", 
+                        "Raphael Rubino", 
+                        "Carolina Scarton", 
+                        "Lucia Specia", 
+                        "Marco Turchi", 
+                        "Karin Verspoor", 
+                        "Marcos Zampieri"
+                  ], 
+                  "task": "Statistical machine translation", 
+                  "year": 2016
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://www.microsoft.com/en-us/download/details.aspx?id=52398", 
+                  "name": "MRPC", 
+                  "paper": "Automatically Constructing a Corpus of Sentential Paraphrases ", 
+                  "provider": [
+                        "William B. Dolan", 
+                        "Chris Brockett"
+                  ], 
+                  "task": "Automatic paraphrase identification", 
+                  "year": 2005
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://www.quora.com/q/quoradata/First-Quora-Dataset-Release-Question-Pairs", 
+                  "name": "QQP", 
+                  "paper": "First Quora Dataset Release: Question Pairs", 
+                  "provider": [
+                        "Shankar Iyer", 
+                        "Nikhil Dandekar", 
+                        "Kornél Csernai"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://cims.nyu.edu/~sbowman/multinli/", 
+                  "name": "MNLI", 
+                  "paper": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference", 
+                  "provider": [
+                        "Adina Williams", 
+                        "Nikita Nangia", 
+                        "Samuel R. Bowman"
+                  ], 
+                  "task": "Information Extraction", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://aclweb.org/aclwiki/Recognizing_Textual_Entailment", 
+                  "name": "RTE", 
+                  "paper": "The Sixth PASCAL Recognizing Textual Entailment Challenge", 
+                  "provider": [
+                        "Luisa Bentivogli", 
+                        "Peter Clark", 
+                        "Ido Dagan", 
+                        "Danilo Giampiccolo"
+                  ], 
+                  "task": "Information Extraction", 
+                  "year": 2009
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://people.ict.usc.edu/~gordon/copa.html", 
+                  "name": "COPA", 
+                  "paper": "Choice of Plausible Alternatives:An Evaluation of Commonsense Causal Reasoning", 
+                  "provider": [
+                        "Melissa Roemmele", 
+                        "Cosmin Adrian Bejan", 
+                        "Andrew S. Gordon"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2011
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://pilehvar.github.io/wic/", 
+                  "name": "WiC", 
+                  "paper": "WiC: the Word-in-Context Datasetfor Evaluating Context-Sensitive Meaning Representations", 
+                  "provider": [
+                        "Mohammad Taher Pilehvar", 
+                        "Jose Camacho-Collados"
+                  ], 
+                  "task": "Word embeddings", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://www.microsoft.com/en-us/research/project/newsqa-dataset/", 
+                  "name": "NewsQA", 
+                  "paper": "NewsQA: A Machine Comprehension Dataset", 
+                  "provider": [
+                        "Adam Trischler", 
+                        "Tong Wang", 
+                        "Xingdi Yuan", 
+                        "Justin Harris", 
+                        "Alessandro Sordoni", 
+                        "Philip Bachman", 
+                        "Kaheer Suleman"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://nlp.cs.washington.edu/triviaqa/", 
+                  "name": "TriviaQA", 
+                  "paper": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension ", 
+                  "provider": [
+                        "Mandar Joshi", 
+                        "Eunsol Choi", 
+                        "Daniel S. Weld", 
+                        "Luke Zettlemoyer"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/nyu-dl/dl4ir-searchQA", 
+                  "name": "SearchQA", 
+                  "paper": "SearchQA: A New Q&A DatasetAugmented with Context from a Search Engine", 
+                  "provider": [
+                        "Matt Dunn", 
+                        "Levent Sagun", 
+                        "Mike Higgins", 
+                        "V. Ugur Guney", 
+                        "Volkan Cirik", 
+                        "Kyunghyun Cho"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2017
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://ai.google.com/research/NaturalQuestions", 
+                  "name": "Natural Questions", 
+                  "paper": "Natural Questions: a Benchmark for Question Answering Research", 
+                  "provider": [
+                        "Tom Kwiatkowski", 
+                        "Jennimaria Palomaki", 
+                        "Olivia Redfield", 
+                        "Michael Collins", 
+                        "Ankur Parikh", 
+                        "Chris Alberti", 
+                        "Danielle Epstein", 
+                        "Illia Polosukhin", 
+                        "Jacob Devlin", 
+                        "Kenton Lee", 
+                        "Kristina Toutanova", 
+                        "Llion Jones", 
+                        "Matthew Kelcey", 
+                        "Ming-Wei Chang", 
+                        "Andrew M. Dai", 
+                        "Jakob Uszkoreit", 
+                        "Quoc Le", 
+                        "Slav Petrov"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "http://qangaroo.cs.ucl.ac.uk/", 
+                  "name": "WikiHop", 
+                  "paper": "Constructing Datasets for Multi-hop Reading Comprehension Across Documents", 
+                  "provider": [
+                        "Johannes Welbl", 
+                        "Pontus Stenetorp", 
+                        "Sebastian Riedel"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://cs.stanford.edu/people/jcjohns/clevr/", 
+                  "name": "CLEVR", 
+                  "paper": "CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning", 
+                  "provider": [
+                        "Justin Johnson", 
+                        "Bharath Hariharan", 
+                        "Laurens van der Maaten", 
+                        "Li Fei-Fei", 
+                        "C. Lawrence Zitnick", 
+                        "Ross Girshick"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2016
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://research.fb.com/downloads/babi/", 
+                  "name": "bAbI", 
+                  "paper": "Working Memory Networks: Augmenting Memory Networks with a Relational Reasoning Module", 
+                  "provider": [
+                        "Juan Pavez", 
+                        "Hector Allende", 
+                        "Hector Allende-Cid"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/google-research-datasets/conceptual-captions", 
+                  "name": "Conceptual Captions", 
+                  "paper": "Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning", 
+                  "provider": [
+                        "Piyush Sharma", 
+                        "Nan Ding", 
+                        "Sebastian Goodman", 
+                        "Radu Soricut"
+                  ], 
+                  "task": "Image captioning", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://worksheets.codalab.org/worksheets/0xba659fe363cb46e7a505c5b6a774dc8a", 
+                  "name": "WebQuestions", 
+                  "paper": "Semantic Parsing on Freebase from Question-Answer Pairs", 
+                  "provider": [
+                        "Jonathan Berant", 
+                        "Andrew Chou", 
+                        "Roy Frostig", 
+                        "Percy Liang"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2013
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://www.tau-nlp.org/commonsenseqa", 
+                  "name": "CommonsenseQA", 
+                  "paper": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge", 
+                  "provider": [
+                        "Alon Talmor", 
+                        "Jonathan Herzig", 
+                        "Nicholas Lourie", 
+                        "Jonathan Berant"
+                  ], 
+                  "task": "Question Answering", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://vizwiz.org/tasks-and-datasets/vqa/", 
+                  "name": "VizWiz", 
+                  "paper": "VizWiz Grand Challenge: Answering Visual Questions from Blind People", 
+                  "provider": [
+                        "Danna Gurari", 
+                        "Qing Li", 
+                        "Abigale J. Stangl", 
+                        "Anhong Guo", 
+                        "Chi Lin", 
+                        "Kristen Grauman", 
+                        "Jiebo Luo", 
+                        "Jeffrey P. Bigham"
+                  ], 
+                  "task": "Image Captioning and Visual Question Answering", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://github.com/201528014227051/RSICD_optimal", 
+                  "name": "RSICD", 
+                  "paper": "Exploring Models and Data for Remote Sensing Image Caption Generation", 
+                  "provider": [
+                        "Xiaoqiang Lu", 
+                        "Binqiang Wang", 
+                        "Xiangtao Zheng", 
+                        "Xuelong Li"
+                  ], 
+                  "task": "Image Captioning", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "http://tamaraberg.com/referitgame/", 
+                  "name": "ReferItGame", 
+                  "paper": "ReferItGame: Referring to Objects in Photographs of Natural Scenes", 
+                  "provider": [
+                        "Sahar Kazemzadeh", 
+                        "Vicente Ordonez", 
+                        "Mark Matten", 
+                        "Tamara L. Berg"
+                  ], 
+                  "task": "Image Captioning", 
+                  "year": 2014
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "http://users.cecs.anu.edu.au/~u4534172/senticap.html", 
+                  "name": "SentiCap", 
+                  "paper": "SentiCap: Generating Image Descriptions with Sentiments", 
+                  "provider": [
+                        "Alexander Mathews", 
+                        "Lexing Xie", 
+                        "Xuming He"
+                  ], 
+                  "task": "Image Captioning", 
+                  "year": 2015
+            }
+      }, 
+      {
+            "n": {
+                  "downloadurl": "https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/", 
+                  "name": "Hateful Memes", 
+                  "paper": "The Hateful Memes Challenge:Detecting Hate Speech in Multimodal Memes", 
+                  "provider": [
+                        "Douwe Kiela", 
+                        "Hamed Firooz", 
+                        "Aravind Mohan", 
+                        "Vedanuj Goswami", 
+                        "Amanpreet Singh", 
+                        "Pratik Ringshia", 
+                        "Davide Testuggine"
+                  ], 
+                  "task": "Image Captioning", 
+                  "year": 2020
+            }
+      }
+]

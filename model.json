@@ -1,0 +1,785 @@
+[
+      {
+            "n": {
+                  "author": "Ming Zhong,Pengfei Liu,Yiran Chen,DanqingWang,Xipeng Qiu,Xuanjing Huang", 
+                  "codeurl": "https://github.com/maszhongming/MatchSum", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Fudan University", 
+                  "environment": "PyTorch", 
+                  "gitfork": 51, 
+                  "gitstar": 240, 
+                  "modelurl": "https://www.aclweb.org/anthology/2020.acl-main.552.pdf", 
+                  "name": "Extractive Summarization as Text Matching", 
+                  "performance": "{'数据集': {'CNN / Daily Mail': {'ROUGE-1': 44.1, 'ROUGE-2': 20.86, 'ROUGE-L': 40.55}, 'Reddit': {'ROUGE-1': 25.09, 'ROUGE-2': 6.17, 'ROUGE-L': 20.13}, 'XSum': {'ROUGE-1': 24.86, 'ROUGE-2': 4.66, 'ROUGE-L': 18.41}, 'WikiHow': {'ROUGE-1': 31.85, 'ROUGE-2': 8.98, 'ROUGE-L': 29.58}, 'PubMed': {'ROUGE-1': 41.21, 'ROUGE-2': 14.91, 'ROUGE-L': 36.75}, 'Multi-News': {'ROUGE-1': 46.2, 'ROUGE-2': 16.51, 'ROUGE-L': 41.89}}}", 
+                  "quote": 23, 
+                  "task": "文本摘要", 
+                  "title": "Extractive Summarization as Text Matching", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Yang Liu,Mirella Lapata", 
+                  "codeurl": "https://github.com/nlpyang/PreSumm", 
+                  "codinglanguage": "Python 3.6", 
+                  "corporation": "University of Edinburgh", 
+                  "environment": "PyTorch 1.1.0", 
+                  "gitfork": 325, 
+                  "gitstar": 825, 
+                  "modelurl": "https://www.aclweb.org/anthology/D19-1387.pdf", 
+                  "name": "Text Summarization with Pretrained Encoders", 
+                  "performance": "{'数据集': {'CNN / Daily Mail': {'ROUGE-1': 43.85, 'ROUGE-2': 20.34, 'ROUGE-L': 39.9}, 'NYT': {'ROUGE-1': 49.02, 'ROUGE-2': 31.02, 'ROUGE-L': 45.55}, 'X-Sum': {'ROUGE-1': 38.81, 'ROUGE-2': 16.5, 'ROUGE-L': 31.27}}}", 
+                  "quote": 233, 
+                  "task": "文本摘要", 
+                  "title": "Text Summarization with Pretrained Encoders", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Zi-Yi Dou,Pengfei Liu,Hiroaki Hayashi,Zhengbao Jiang,Graham Neubig", 
+                  "codeurl": "https://github.com/neulab/guided_summarization", 
+                  "codinglanguage": "None", 
+                  "corporation": "Carnegie Mellon University", 
+                  "environment": "None", 
+                  "gitfork": 1, 
+                  "gitstar": 14, 
+                  "modelurl": "https://arxiv.org/abs/2010.08014", 
+                  "name": "GSum", 
+                  "performance": "{'数据集': {'CNN / Daily Mail': {'ROUGE-1': 45.94, 'ROUGE-2': 22.32, 'ROUGE-L': 42.48}}}", 
+                  "quote": 1, 
+                  "task": "文本摘要", 
+                  "title": "GSum: A General Framework for Guided Neural Abstractive Summarization", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Weizhen Qi,Yu Yan,Yeyun Gong,Dayiheng Liu,Nan Duan,Jiusheng Chen,Ruofei Zhang,Ming Zhou", 
+                  "codeurl": "https://github.com/neulab/guided_summarization", 
+                  "codinglanguage": "Python", 
+                  "corporation": "University of Science and Technology of China,Microsoft,Microsoft Research Asia,Sichuan University", 
+                  "environment": "torch==1.3.0 fairseq==v0.9.0", 
+                  "gitfork": 44, 
+                  "gitstar": 229, 
+                  "modelurl": "https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf", 
+                  "name": "ProphetNet", 
+                  "performance": "{'数据集': {'CNN / Daily Mail': {'ROUGE-1': 44.2, 'ROUGE-2': 21.17, 'ROUGE-L': 41.3}, 'Gigaword': {'ROUGE-1': 39.51, 'ROUGE-2': 20.42, 'ROUGE-L': 36.69}, 'SQuAD v1.1': {'B4': 25.8, 'MTR': 27.54, 'ROUGE-L': 53.65}}}", 
+                  "quote": 34, 
+                  "task": "文本摘要", 
+                  "title": "ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Kaiqiang Song,Bingqing Wang,Zhe Feng,Liu Ren,Fei Liu", 
+                  "codeurl": "https://github.com/ucfnlp/control-over-copying", 
+                  "codinglanguage": "Python 3.7", 
+                  "corporation": "University of Central Florida,Robert Bosch LLC", 
+                  "environment": "Pytorchv1.3 Pyrouge pytorch-pretrained-bert", 
+                  "gitfork": 7, 
+                  "gitstar": 33, 
+                  "modelurl": "https://ojs.aaai.org/index.php/AAAI/article/view/6420", 
+                  "name": "Controlling the Amount of Verbatim Copying in Abstractive Summarization", 
+                  "performance": "{'数据集': {'Gigaword': {'ROUGE-1': 39.08, 'ROUGE-2': 20.47, 'ROUGE-L': 36.69}, 'Newsroom': {'ROUGE-1': 45.93, 'ROUGE-2': 24.14, 'ROUGE-L': 42.51}}}", 
+                  "quote": 7, 
+                  "task": "文本摘要", 
+                  "title": "Controlling the Amount of Verbatim Copying in Abstractive Summarization", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Jingqing Zhang,Yao Zhao,Mohammad Saleh,Peter J. Liu", 
+                  "codeurl": "https://github.com/google-research/pegasus", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Imperial College London,Google Research", 
+                  "environment": "Google Cloud or gsutil", 
+                  "gitfork": 180, 
+                  "gitstar": 915, 
+                  "modelurl": "https://arxiv.org/pdf/1912.08777.pdf", 
+                  "name": "PEGASUS", 
+                  "performance": "{'数据集': {'CNN / Daily Mail': {'ROUGE-1': 44.16, 'ROUGE-2': 21.56, 'ROUGE-L': 41.3}, 'Reddit': {'ROUGE-1': 27.99, 'ROUGE-2': 9.81, 'ROUGE-L': 22.94}, 'Newsroom': {'ROUGE-1': 45.98, 'ROUGE-2': 34.2, 'ROUGE-L': 42.18}, 'XSum': {'ROUGE-1': 47.6, 'ROUGE-2': 24.83, 'ROUGE-L': 39.64}, 'WikiHow': {'ROUGE-1': 46.39, 'ROUGE-2': 22.12, 'ROUGE-L': 38.41}, 'PubMed': {'ROUGE-1': 45.97, 'ROUGE-2': 20.15, 'ROUGE-L': 28.25}, 'Multi-News': {'ROUGE-1': 47.65, 'ROUGE-2': 18.75, 'ROUGE-L': 24.95}, 'Gigaword': {'ROUGE-1': 39.65, 'ROUGE-2': 20.47, 'ROUGE-L': 36.76}, 'BIGPATENT': {'ROUGE-1': 52.29, 'ROUGE-2': 33.08, 'ROUGE-L': 41.66}, 'arXiv': {'ROUGE-1': 44.21, 'ROUGE-2': 16.95, 'ROUGE-L': 25.67}, 'AESLC': {'ROUGE-1': 37.68, 'ROUGE-2': 21.25, 'ROUGE-L': 36.51}, 'BillSum': {'ROUGE-1': 59.67, 'ROUGE-2': 41.58, 'ROUGE-L': 47.59}}}", 
+                  "quote": 93, 
+                  "task": "文本摘要", 
+                  "title": "PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Li Dong,Nan Yang,Wenhui Wang,Furu Wei,Xiaodong Liu,Yu Wang,Jianfeng Gao,Ming Zhou, Hsiao-Wuen Hon", 
+                  "codeurl": "https://github.com/microsoft/unilm", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Microsoft Research", 
+                  "environment": "UniLM v1", 
+                  "gitfork": 371, 
+                  "gitstar": 1723, 
+                  "modelurl": "https://arxiv.org/pdf/1905.03197.pdf", 
+                  "name": "UNILM", 
+                  "performance": "{'数据集': {'Gigaword': {'ROUGE-1': 38.45, 'ROUGE-2': 19.45, 'ROUGE-L': 35.75}, 'CNN / Daily Mail': {'ROUGE-1': 43.33, 'ROUGE-2': 20.21, 'ROUGE-L': 40.51}, 'SQuAD v2.0': {'EM': 84.7, 'F1': 87.6}, 'SQuAD v1.1': {'BLEU-4': 23.75, 'MTR': 25.61, 'ROUGE-L': 52.04}, 'CoQA': {'Extractive F1': 84.9, 'Generative F1': 82.5}, 'GLUE': {'CoLA': 61.1, 'SST-2': 94.5, 'MRPC': 90.0, 'STS-B': 87.7, 'QQP': 71.7, 'MNLI-m/mm': '87.0/85.9', 'QNLI': 92.7, 'RTE': 70.9, 'WNLI': 65.1, 'AX': 38.4, 'Score': 80.8}}}", 
+                  "quote": 305, 
+                  "task": "文本摘要", 
+                  "title": "Unified Language Model Pre-training for Natural Language Understanding and Generation", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Mike Lewis,Yinhan Liu,Naman Goyal,Marjan Ghazvininejad,Abdelrahman Mohamed,Omer Levy,Ves Stoyanov,Luke Zettlemoyer", 
+                  "codeurl": "https://github.com/pytorch/fairseq/tree/master/examples/bart", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Facebook AI", 
+                  "environment": "Pytorch", 
+                  "gitfork": "2.8k", 
+                  "gitstar": "10.9k", 
+                  "modelurl": "https://arxiv.org/abs/1910.13461", 
+                  "name": "BART", 
+                  "performance": "{'数据集': {'X-Sum': {'ROUGE-1': 45.14, 'ROUGE-2': 22.27, 'ROUGE-L': 37.25}, 'CNN / Daily Mail': {'ROUGE-1': 44.16, 'ROUGE-2': 21.28, 'ROUGE-L': 40.9}, 'GLUE': {'CoLA': 62.8, 'SST-2': 96.6, 'MRPC': 90.4, 'STS-B': 91.2, 'QQP': 92.5, 'MNLI-m/mm': '89.9/90.1', 'QNLI': 94.9, 'RTE': 87.0}, 'SQuAD v2.0': {'EM': 86.1, 'F1': 89.2}, 'SQuAD v1.1': {'EM': 88.8, 'F1': 94.6}}}", 
+                  "quote": 392, 
+                  "task": "文本摘要", 
+                  "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Sho Takase,Sosuke Kobayashi", 
+                  "codeurl": "https://github.com/takase/alone_seq2seq", 
+                  "codinglanguage": "Python>=3.6", 
+                  "corporation": "Tokyo Institute of Technology,Tohoku University", 
+                  "environment": "Pytorch>=1.4.0", 
+                  "gitfork": 1, 
+                  "gitstar": 17, 
+                  "modelurl": "https://arxiv.org/abs/2004.12073", 
+                  "name": "ALONE", 
+                  "performance": "{'数据集': {'DUC 2004 Task 1': {'ROUGE-1': 32.57, 'ROUGE-2': 11.63, 'ROUGE-L': 28.24}}}", 
+                  "quote": 1, 
+                  "task": "文本摘要", 
+                  "title": "All Word Embeddings from One Embedding", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Chen Zhao,Chenyan Xiong,Corby Rosset,Xia Song,Paul Bennett,Saurabh Tiwary", 
+                  "codeurl": "https://github.com/microsoft/Transformer-XH", 
+                  "codinglanguage": "Python", 
+                  "corporation": "University of Maryland, College Park,Microsoft AI & Research", 
+                  "environment": "NVIDIA apex", 
+                  "gitfork": 12, 
+                  "gitstar": 52, 
+                  "modelurl": "https://openreview.net/forum?id=r1eIiCNYwS", 
+                  "name": "Transformer-XH", 
+                  "performance": "{'数据集': {'HotpotQA': {'Dev': {'Ans': {'EM': 54.0, 'F1': 66.2}, 'Supp': {'EM': 41.7, 'F1': 72.1}, 'Joint': {'EM': 27.7, 'F1': 52.9}}, 'Test': {'Ans': {'EM': 51.6, 'F1': 64.1}, 'Supp': {'EM': 40.9, 'F1': 71.4}, 'Joint': {'EM': 26.1, 'F1': 51.3}}}, 'FEVER': {'Dev': {'LA': 78.05, 'FEVER': 74.98}, 'Test': {'LA': 72.39, 'FEVER': 69.07}, 'Single Evidence': {'LA': 81.84, 'FEVER': 81.31}, 'Multi Evidence': {'LA': 86.58, 'FEVER': 58.47}}}}", 
+                  "quote": 21, 
+                  "task": "自然语言推理", 
+                  "title": "Transformer-XH: Multi-Evidence Reasoning with eXtra Hop Attention", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Zhilin Yang,Zihang Dai,Yiming Yang,Jaime Carbonell,Ruslan Salakhutdinov,Quoc V. Le", 
+                  "codeurl": "https://github.com/zihangdai/xlnet", 
+                  "codinglanguage": "Python2", 
+                  "corporation": "Carnegie Mellon University,Google AI Brain Team", 
+                  "environment": "TensorFlow 1.13.1", 
+                  "gitfork": "1.1k", 
+                  "gitstar": "5.5k", 
+                  "modelurl": "https://papers.nips.cc/paper/2019/hash/dc6a7e655d7e5840e66733e9ee67cc69-Abstract.html", 
+                  "name": "XLNet", 
+                  "performance": "{'数据集': {'GLUE': {'CoLA': 70.2, 'SST-2': 97.2, 'MRPC': 92.9, 'STS-B': 93.0, 'QQP': 90.4, 'MNLI-m/mm': '90.9/90.9', 'QNLI': 99.0, 'RTE': 88.5, 'WNLI': 92.5}, 'SQuAD v2.0': {'EM': 87.926, 'F1': 90.689}, 'SQuAD v1.1': {'EM': 89.7, 'F1': 95.1}}}", 
+                  "quote": 1906, 
+                  "task": "自然语言推理", 
+                  "title": "Generalized Autoregressive Pretraining for Language Understanding", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Yinhan Liu,Myle Ott,Naman Goyal,Jingfei Du,Mandar Joshi,Danqi Chen,Omer Levy,Mike Lewis,Luke Zettlemoyer,Veselin Stoyanov", 
+                  "codeurl": "https://github.com/pytorch/fairseq", 
+                  "codinglanguage": "Python>=3.6", 
+                  "corporation": "Paul G. Allen School of Computer Science & Engineering University of Washington,Facebook AI", 
+                  "environment": [
+                        "PyTorch>= 1.5.", 
+                        "NVIDIA GPU", 
+                        "NCCL"
+                  ], 
+                  "gitfork": "2.8k", 
+                  "gitstar": "11k", 
+                  "modelurl": "https://arxiv.org/abs/1907.11692", 
+                  "name": "RoBERTa", 
+                  "performance": "{'数据集': {'GLUE': {'CoLA': 67.8, 'SST-2': 96.7, 'MRPC': 92.3, 'STS-B': 92.2, 'QQP': 90.2, 'MNLI-m/mm': '90.8/90.2', 'QNLI': 98.9, 'RTE': 88.2, 'WNLI': 89.0, 'Avg': 88.5}, 'SQuAD v2.0': {'EM': 87.0, 'F1': 89.9}, 'SQuAD v1.1': {'EM': 88.9, 'F1': 94.6}, 'RACE': {'Accuracy': 83.2, 'Middle': 86.5, 'High': 81.3}}}", 
+                  "quote": 686, 
+                  "task": "自然语言推理", 
+                  "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Jacob Devlin,Ming-Wei Chang,Kenton Lee,Kristina Toutanova", 
+                  "codeurl": "https://github.com/google-research/bert", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Google AI Language", 
+                  "environment": [
+                        "TensorFlow"
+                  ], 
+                  "gitfork": "7.5k", 
+                  "gitstar": "26.6k", 
+                  "modelurl": "https://www.aclweb.org/anthology/N19-1423/", 
+                  "name": "BERT", 
+                  "performance": "{'数据集': {'GLUE': {'CoLA': 60.5, 'SST-2': 94.9, 'MRPC': 89.3, 'STS-B': 86.5, 'QQP': 72.1, 'MNLI-m/mm': '86.7/85.9', 'QNLI': 92.7, 'RTE': 70.1, 'Avg': 82.1}, 'SQuAD v2.0': {'EM': 80.0, 'F1': 83.1}, 'SQuAD v1.1': {'EM': 87.4, 'F1': 93.2}, 'SWAG': {'Dev': 86.6, 'Test': 86.3}}}", 
+                  "quote": 14563, 
+                  "task": "自然语言推理", 
+                  "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Ming Tu,Kevin Huang,GuangtaoWang,Xiaodong He,Bowen Zhou", 
+                  "codeurl": "https://github.com/JD-AI-Research-Silicon-Valley/SAE", 
+                  "codinglanguage": "Python", 
+                  "corporation": "JD AI Research", 
+                  "environment": [
+                        "PyTorch >= 1.1"
+                  ], 
+                  "gitfork": 3, 
+                  "gitstar": 22, 
+                  "modelurl": "https://arxiv.org/abs/1911.00484", 
+                  "name": "SAE", 
+                  "performance": "{'数据集': {'HotpotQA': {'Dev': {'Ans': {'EM': 67.7, 'F1': 80.75}, 'Supp': {'EM': 63.3, 'F1': 87.38}, 'Joint': {'EM': 46.81, 'F1': 72.75}}, 'Test': {'Ans': {'EM': 66.92, 'F1': 79.62}, 'Supp': {'EM': 61.53, 'F1': 86.86}, 'Joint': {'EM': 45.36, 'F1': 71.45}}}}}", 
+                  "quote": 22, 
+                  "task": "自然语言推理", 
+                  "title": "Select, Answer and Explain: Interpretable Multi-Hop Reading Comprehension over Multiple Documents", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Lin Qiu,Yunxuan Xiao,Yanru Qu,Hao Zhou,Lei Li,Weinan Zhang,Yong Yu", 
+                  "codeurl": "https://github.com/woshiyyya/DFGN-pytorch", 
+                  "codinglanguage": "Python3", 
+                  "corporation": "Shanghai Jiao Tong University,ByteDance AI Lab, China", 
+                  "environment": [
+                        "PyTorch0.4.1", 
+                        "boto3"
+                  ], 
+                  "gitfork": 31, 
+                  "gitstar": 158, 
+                  "modelurl": "https://www.aclweb.org/anthology/P19-1617/", 
+                  "name": "DFGN", 
+                  "performance": "{'数据集': {'HotpotQA': {'Test': {'Ans': {'EM': 56.31, 'F1': 69.69}, 'Supp': {'EM': 51.5, 'F1': 81.62}, 'Joint': {'EM': 33.62, 'F1': 59.82}}}}}", 
+                  "quote": 35, 
+                  "task": "自然语言推理", 
+                  "title": "Dynamically Fused Graph Network for Multi-hop Reasoning", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Zhenzhong Lan,Mingda Chen,Sebastian Goodman,Kevin Gimpel,Piyush Sharma,Radu Soricut", 
+                  "codeurl": "https://github.com/google-research/ALBERT", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Google Research,Toyota Technological Institute at Chicago", 
+                  "environment": [
+                        "PyTorch"
+                  ], 
+                  "gitfork": 475, 
+                  "gitstar": "2.6k", 
+                  "modelurl": "https://openreview.net/forum?id=H1eA7AEtvS", 
+                  "name": "ALBERT", 
+                  "performance": "{'数据集': {'GLUE': {'CoLA': 71.4, 'SST-2': 96.9, 'MRPC': 90.9, 'STS-B': 93.0, 'QQP': 92.2, 'MNLI': 90.8, 'QNLI': 95.3, 'RTE': 89.2}, 'SQuAD v2.0': {'EM': 89.7, 'F1': 92.2}, 'SQuAD v1.1': {'EM': 90.1, 'F1': 95.5}, 'RACE': {'Accuracy': 89.4, 'Middle': 91.2, 'High': 88.6}}}", 
+                  "quote": 1093, 
+                  "task": "自然语言推理", 
+                  "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Alec Radford,Karthik Narasimhan,Tim Salimans,Ilya Sutskever", 
+                  "codeurl": "https://github.com/openai/finetune-transformer-lm", 
+                  "codinglanguage": "Python", 
+                  "corporation": "OpenAI", 
+                  "environment": [
+                        "ftfy==4.4.3", 
+                        "spacy"
+                  ], 
+                  "gitfork": 419, 
+                  "gitstar": "1.6k", 
+                  "modelurl": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf", 
+                  "name": "GPT", 
+                  "performance": "{'数据集': {'GLUE': {'CoLA': 47.9, 'SST-2': 92.0, 'MRPC': 84.9, 'STS-B': 83.2, 'QQP': 70.3, 'MNLI': 81.8, 'QNLI': 88.1, 'RTE': 56.0, 'Avg': 75.0}}}", 
+                  "quote": 1844, 
+                  "task": "自然语言推理", 
+                  "title": "Improving Language Understanding by Generative Pre-Training", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Kaitao Song,Xu Tan,Tao Qin,Jianfeng Lu,Tie-Yan Liu", 
+                  "codeurl": "https://github.com/microsoft/MPNet", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Nanjing University of Science and Technology,Microsoft Research", 
+                  "environment": [
+                        "pytorch_transformers==1.0.0", 
+                        "transformers", 
+                        "scipy", 
+                        "sklearn"
+                  ], 
+                  "gitfork": 18, 
+                  "gitstar": 162, 
+                  "modelurl": "https://arxiv.org/abs/2004.09297", 
+                  "name": "MPNet", 
+                  "performance": "{'数据集': {'GLUE': {'CoLA': 64.0, 'SST-2': 96.0, 'MRPC': 89.1, 'STS-B': 90.7, 'QQP': 89.9, 'MNLI': 88.5, 'QNLI': 93.1, 'RTE': 81.0, 'Avg': 86.5}, 'SQuAD v2.0': {'EM': 82.8, 'F1': 85.8}, 'SQuAD v1.1': {'EM': 86.9, 'F1': 92.7}, 'RACE': {'Accuracy': 76.1, 'Middle': 79.7, 'High': 74.5}}}", 
+                  "quote": 8, 
+                  "task": "自然语言推理", 
+                  "title": "MPNet: Masked and Permuted Pre-training for Language Understanding", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Iz Beltagy,Matthew E. Peters,Arman Cohan", 
+                  "codeurl": "https://github.com/allenai/longformer", 
+                  "codinglanguage": "Python 3.7", 
+                  "corporation": "Allen Institute for Artificial Intelligence", 
+                  "environment": [
+                        "cudatoolkit=10.0"
+                  ], 
+                  "gitfork": 125, 
+                  "gitstar": "1k", 
+                  "modelurl": "https://arxiv.org/pdf/2004.05150.pdf", 
+                  "name": "Longformer", 
+                  "performance": "{'数据集': {'WikiHop': {'Acc': 75.0}, 'TriviaQA': {'F1': 75.2}, 'HotpotQA': {'F1': 64.4}, 'OntoNotes': {'F1': 78.6}, 'IMDB': {'Acc': 85.7}, 'Hyperpartisan': {'F1': 94.8}}}", 
+                  "quote": 166, 
+                  "task": "自然语言推理", 
+                  "title": "Longformer: The Long-Document Transformer", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Vladimir Karpukhin,Barlas Oguz,Sewon Min,Patrick Lewis,Ledell Wu,Sergey Edunov,Danqi Chen,Wen-tau Yih", 
+                  "codeurl": "https://github.com/facebookresearch/DPR", 
+                  "codinglanguage": "Python 3.6+", 
+                  "corporation": "Facebook AI,University of Washington,Princeton University", 
+                  "environment": [
+                        "PyTorch 1.2.0+"
+                  ], 
+                  "gitfork": 84, 
+                  "gitstar": 477, 
+                  "modelurl": "https://www.aclweb.org/anthology/2020.emnlp-main.550.pdf", 
+                  "name": "DPR", 
+                  "performance": "{'数据集': {'NQ': {'Acc': 41.5}, 'TriviaQA': {'Acc': 56.8}, 'WQ': {'Acc': 42.4}, 'TREC': {'Acc': 49.4}}}", 
+                  "quote": 37, 
+                  "task": "自然语言推理", 
+                  "title": "Dense Passage Retrieval for Open-Domain Question Answering", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Karan Desai,Justin Johnson", 
+                  "codeurl": "https://github.com/kdexd/virtex", 
+                  "codinglanguage": "Python 3.6+", 
+                  "corporation": "University of Michigan", 
+                  "environment": [
+                        "PyTorch 1.2.0+"
+                  ], 
+                  "gitfork": 31, 
+                  "gitstar": 330, 
+                  "modelurl": "https://arxiv.org/abs/2006.06666", 
+                  "name": "VirTex", 
+                  "performance": "{'数据集': {'VOC07': {'Downstream performance': 88.7}, 'TriviaQA': {'Downstream performance': 53.8}}}", 
+                  "quote": 10, 
+                  "task": "Image Captioning", 
+                  "title": "VirTex: Learning Visual Representations from Textual Annotations", 
+                  "year": 2021
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Peter Anderson,Xiaodong He,Chris Buehler,Damien Teney,Mark Johnson,Stephen Gould,Lei Zhang", 
+                  "codeurl": "https://github.com/poojahira/image-captioning-bottom-up-top-down", 
+                  "codinglanguage": "Python 3.6", 
+                  "corporation": "Australian National University,Microsoft Research,University of Adelaide,Macquarie University", 
+                  "environment": "Pytorch 0.4.1", 
+                  "gitfork": 28, 
+                  "gitstar": 115, 
+                  "modelurl": "https://openaccess.thecvf.com/content_cvpr_2018/html/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.html", 
+                  "name": "Bottom-up and Top-down Attention", 
+                  "performance": "{'数据集': [{'Microsoft COCO': [{'BLEU-4': 36.2}, {'METEOR': 27.0}, {'ROUGE-L': 56.4}, {'CIDEr': 113.5}]}]}", 
+                  "quote": 1564, 
+                  "task": "Image Captioning", 
+                  "title": "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Tan Wang,Jianqiang Huang,Hanwang Zhang,Qianru Sun", 
+                  "codeurl": "https://github.com/Wangt-CN/VC-R-CNN", 
+                  "codinglanguage": "Python 3.7", 
+                  "corporation": "University of Electronic Science and Technology of China,Damo Academy, Alibaba Group,Nanyang Technological University,Singapore Management University", 
+                  "environment": "Pytorch 1.0", 
+                  "gitfork": 37, 
+                  "gitstar": 255, 
+                  "modelurl": "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Visual_Commonsense_R-CNN_CVPR_2020_paper.html", 
+                  "name": "VC R-CNN", 
+                  "performance": "{'数据集': [{'Microsoft COCO': [{'BLEU-4': 38.9}, {'METEOR': 29.2}, {'ROUGE-L': 58.2}, {'CIDEr': 129.8}]}]}", 
+                  "quote": 15, 
+                  "task": "Image Captioning", 
+                  "title": "Visual Commonsense R-CNN", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Lun Huang,Wenmin Wang,Jie Chen,Xiao-Yong Wei", 
+                  "codeurl": "https://github.com/husthuaan/AoANet", 
+                  "codinglanguage": "Python 3.6", 
+                  "corporation": "School of Electronic and Computer Engineering, Peking University,Peng Cheng Laboratory,Macau University of Science and Technology", 
+                  "environment": "PyTorch 1.0", 
+                  "gitfork": 50, 
+                  "gitstar": 229, 
+                  "modelurl": "https://openaccess.thecvf.com/content_ICCV_2019/html/Huang_Attention_on_Attention_for_Image_Captioning_ICCV_2019_paper.html", 
+                  "name": "AoA", 
+                  "performance": "{'数据集': [{'Microsoft COCO': [{'Bleu_1': 0.8054903453672397}, {'Bleu_2': 0.6523038976984842}, {'Bleu_3': 0.5096621263772566}, {'Bleu_4': 0.39140307771618477}, {'METEOR': 0.29011216375635934}, {'ROUGE_L': 0.5890369750273199}, {'CIDEr': 1.2892294296245852}, {'SPICE': 0.22680092759866174}]}]}", 
+                  "quote": 99, 
+                  "task": "Image Captioning", 
+                  "title": "Attention on Attention for Image Captioning", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Zhan Shi,Xu Zhou,Xipeng Qiu,Xiaodan Zhu", 
+                  "codeurl": "https://github.com/Gitsamshi/WeakVRD-Captioning", 
+                  "codinglanguage": "Python 2.7.15", 
+                  "corporation": "Ingenuity Labs Research Institute, Queen’s University,Department of Electrical and Computer Engineering, Queen’s University,School of Computer Science, Fudan University", 
+                  "environment": "Torch 1.0.1", 
+                  "gitfork": 5, 
+                  "gitstar": 16, 
+                  "modelurl": "https://www.aclweb.org/anthology/2020.acl-main.664/", 
+                  "name": "Improving IC", 
+                  "performance": "{'数据集': [{'Microsoft COCO': [{'BLEU-1': 80.8}, {'BLEU-4': 38.9}, {'METEOR': 28.8}, {'ROUGE': 58.7}, {'CIDEr-D': 129.6}, {'SPICE': 22.4}]}]}", 
+                  "quote": 1, 
+                  "task": "Image Captioning", 
+                  "title": "Improving Image Captioning with Better Use of Captions", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Longteng Guo,Jing Liu,Xinxin Zhu,Peng Yao,Shichen Lu,Hanqing Lu", 
+                  "codeurl": "None", 
+                  "codinglanguage": "None", 
+                  "corporation": "National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences,School of Artificial Intelligence, University of Chinese Academy of Sciences,University of Science and Technology Beijing,Wuhan University", 
+                  "environment": "None", 
+                  "gitfork": "None", 
+                  "gitstar": "None", 
+                  "modelurl": "https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Normalized_and_Geometry-Aware_Self-Attention_Network_for_Image_Captioning_CVPR_2020_paper.html", 
+                  "name": "Self-Attention Network", 
+                  "performance": "{'数据集': [{'Microsoft COCO': [{'BLEU-1': 95.0}, {'BLEU-2': 89.3}, {'BLEU-3': 80.6}, {'BLEU-4': 70.2}, {'METEOR': 38.4}, {'ROUGE-L': 74.0}, {'CIDEr-D': 128.6}]}]}", 
+                  "quote": 4, 
+                  "task": "Image Captioning", 
+                  "title": "Normalized and Geometry-Aware Self-Attention Network for Image Captioning", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Marcella Cornia,Matteo Stefanini,Lorenzo Baraldi,Rita Cucchiara", 
+                  "codeurl": "https://github.com/aimagelab/meshed-memory-transformer", 
+                  "codinglanguage": "Python 3.6", 
+                  "corporation": "University of Modena and Reggio Emilia", 
+                  "environment": "Pytorch", 
+                  "gitfork": 42, 
+                  "gitstar": 194, 
+                  "modelurl": "https://openaccess.thecvf.com/content_CVPR_2020/html/Cornia_Meshed-Memory_Transformer_for_Image_Captioning_CVPR_2020_paper.html", 
+                  "name": "Meshed-Memory Transformer", 
+                  "performance": "{'数据集': [{'Microsoft COCO': [{'BLEU-1': 96.0}, {'BLEU-2': 90.8}, {'BLEU-3': 82.7}, {'BLEU-4': 72.8}, {'METEOR': 39.0}, {'ROUGE': 74.8}, {'CIDEr': 132.1}]}]}", 
+                  "quote": 39, 
+                  "task": "Image Captioning", 
+                  "title": "Meshed-Memory Transformer for Image Captioning", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Yingwei Pan,Ting Yao,Yehao Li,Tao Mei", 
+                  "codeurl": "https://github.com/JDAI-CV/image-captioning", 
+                  "codinglanguage": "Python 3", 
+                  "corporation": "JD AI Research, Beijing, China", 
+                  "environment": "PyTorch (>1.0)", 
+                  "gitfork": 20, 
+                  "gitstar": 157, 
+                  "modelurl": "https://openaccess.thecvf.com/content_CVPR_2020/html/Pan_X-Linear_Attention_Networks_for_Image_Captioning_CVPR_2020_paper.html", 
+                  "name": "X-Linear Attention Networks", 
+                  "performance": "{'数据集': [{'Microsoft COCO': [{'BLEU-1': 78.0}, {'BLEU-2': 62.3}, {'BLEU-3': 48.9}, {'BLEU-4': 38.2}, {'METEOR': 28.8}, {'ROUGE': 58.0}, {'CIDEr': 122.0}, {'SPICE': 21.9}]}]}", 
+                  "quote": 32, 
+                  "task": "Image Captioning", 
+                  "title": "X-Linear Attention Networks for Image Captioning", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Xiujun Li,Xi Yin,Chunyuan Li,Pengchuan Zhang,Xiaowei Hu,Lei Zhang,Lijuan Wang,Houdong Hu,Li Dong,Furu Wei,Yejin Choi,Jianfeng Gao", 
+                  "codeurl": "https://github.com/microsoft/Oscar", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Microsoft Corporation,University of Washington", 
+                  "environment": "Pytorch", 
+                  "gitfork": 55, 
+                  "gitstar": 279, 
+                  "modelurl": "https://arxiv.org/abs/2004.06165", 
+                  "name": "Oscar", 
+                  "performance": "{'数据集': [{'Microsoft COCO': [{'BLEU-4': 41.7}, {'METEOR': 30.6}, {'CIDEr': 140.0}, {'SPICE': 24.5}]}]}", 
+                  "quote": 28, 
+                  "task": "Image Captioning", 
+                  "title": "Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Ikuya Yamada,Akari Asai,Hiroyuki Shindo,Hideaki Takeda,Yuji Matsumoto", 
+                  "codeurl": "https://github.com/studio-ousia/luke", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Studio Ousia,RIKEN AIP,University of Washington,Nara Institute of Science and Technology,National Institute of Informatics", 
+                  "environment": "Pytorch", 
+                  "gitfork": 16, 
+                  "gitstar": 149, 
+                  "modelurl": "https://www.aclweb.org/anthology/2020.emnlp-main.523.pdf", 
+                  "name": "LUKE", 
+                  "performance": "{'数据集': [{'Open Entity': [{'Prec.': 79.9}, {'Rec.': 76.6}, {'F1': 78.2}]}, {'TACRED': [{'Prec.': 70.4}, {'Rec.': 75.1}, {'F1': 72.7}]}, {'CoNLL 2003': [{'F1': 94.3}]}, {'ReCoRD': [{'Dev EM': 90.8}, {'Dev F1': 91.4}, {'Test EM': 90.6}, {'Test F1': 91.2}]}, {'SQuAD v1.1': [{'Dev EM': 89.8}, {'Dev F1': 95.0}, {'Test EM': 90.2}, {'Test F1': 95.4}]}]}", 
+                  "quote": 5, 
+                  "task": "NER", 
+                  "title": "LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Xiaoya Li,Jingrong Feng,Yuxian Meng,Qinghong Han,Fei Wu,Jiwei Li", 
+                  "codeurl": "https://github.com/ShannonAI/mrc-for-flat-nested-ner", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Department of Computer Science and Technology, Zhejiang University,Shannon.AI", 
+                  "environment": "Pytorch", 
+                  "gitfork": 26, 
+                  "gitstar": 103, 
+                  "modelurl": "https://arxiv.org/abs/1910.11476", 
+                  "name": "MRC Framework", 
+                  "performance": "{'数据集': [{'ACE 2004': [{'Precision': 85.05}, {'Rrecall': 86.32}, {'F1': 85.98}]}, {'ACE 2005': [{'Precision': 87.16}, {'Rrecall': 86.59}, {'F1': 86.88}]}, {'GENIA': [{'Precision': 85.18}, {'Rrecall': 81.12}, {'F1': 83.75}]}, {'KBP 2017': [{'Precision': 82.33}, {'Rrecall': 77.61}, {'F1': 80.97}]}, {'CoNLL 2003': [{'Precision': 92.33}, {'Rrecall': 94.61}, {'F1': 93.04}]}, {'OntoNotes 5.0': [{'Precision': 92.98}, {'Rrecall': 89.95}, {'F1': 91.11}]}, {'MSRA': [{'Precision': 96.18}, {'Rrecall': 95.12}, {'F1': 95.75}]}, {'OntoNotes 4.0': [{'Precision': 82.98}, {'Rrecall': 81.25}, {'F1': 82.11}]}]}", 
+                  "quote": 45, 
+                  "task": "NER", 
+                  "title": "A Unified MRC Framework for Named Entity Recognition", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Juntao Yu,Bernd Bohnet,Massimo Poesio", 
+                  "codeurl": "https://github.com/juntaoy/biaffine-ner", 
+                  "codinglanguage": "Python 2", 
+                  "corporation": "Queen Mary University,Google Research", 
+                  "environment": "Pytorch", 
+                  "gitfork": 18, 
+                  "gitstar": 100, 
+                  "modelurl": "https://arxiv.org/abs/2005.07150", 
+                  "name": "NER as Dependency Parsing", 
+                  "performance": "{'数据集': [{'ACE 2004': [{'Precision': 87.3}, {'Rrecall': 86.0}, {'F1': 86.7}]}, {'ACE 2005': [{'Precision': 85.2}, {'Rrecall': 85.6}, {'F1': 85.4}]}, {'GENIA': [{'Precision': 81.8}, {'Rrecall': 79.3}, {'F1': 80.5}]}, {'ONTONOTES': [{'Precision': 91.1}, {'Rrecall': 91.5}, {'F1': 91.3}]}, {'CONLL 2003 English': [{'Precision': 93.7}, {'Rrecall': 93.3}, {'F1': 93.5}]}, {'CONLL 2003 German': [{'Precision': 88.3}, {'Rrecall': 84.6}, {'F1': 86.4}]}, {'CONLL 2003 German revised': [{'Precision': 92.4}, {'Rrecall': 88.2}, {'F1': 90.3}]}, {'CONLL 2002 Spanish': [{'Precision': 90.6}, {'Rrecall': 90.0}, {'F1': 90.3}]}, {'CONLL 2002 Dutch': [{'Precision': 94.5}, {'Rrecall': 92.8}, {'F1': 93.7}]}]}", 
+                  "quote": 8, 
+                  "task": "NER", 
+                  "title": "Named Entity Recognition as Dependency Parsing", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Jue Wang,Wei Lu", 
+                  "codeurl": "https://github.com/LorrinWWW/two-are-better-than-one", 
+                  "codinglanguage": "python3", 
+                  "corporation": "College of Computer Science and Technology, Zhejiang University,StatNLP Research Group, Singapore University of Technology and Design", 
+                  "environment": "pytorch 1.4.0", 
+                  "gitfork": 16, 
+                  "gitstar": 61, 
+                  "modelurl": "https://www.aclweb.org/anthology/2020.emnlp-main.133.pdf", 
+                  "name": "Joint Entity and Relation Extraction", 
+                  "performance": "{'数据集': [{'ACE04': [{'NER': 88.6}, {'RE': 63.3}, {'RE+': 59.6}]}, {'ACE05': [{'NER': 89.5}, {'RE': 67.6}, {'RE+': 64.3}]}, {'CoNLL04(micro-averaged F1)': [{'NER': 90.1}, {'RE': 73.8}, {'RE+': 73.6}]}, {'CoNLL04(macro-averaged F1)': [{'NER': 86.9}, {'RE': 75.8}, {'RE+': 75.4}]}, {'ADE': [{'NER': 89.7}, {'RE': 80.1}, {'RE+': 80.1}]}]}", 
+                  "quote": "None", 
+                  "task": "Relation Extraction", 
+                  "title": "Two are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Cheng Li,Ye Tian", 
+                  "codeurl": "https://github.com/slczgwh/REDN", 
+                  "codinglanguage": "Python", 
+                  "corporation": "AI Application Research Center, Huawei Technologies, Shenzhen, China", 
+                  "environment": "Pytorch", 
+                  "gitfork": 14, 
+                  "gitstar": 74, 
+                  "modelurl": "https://arxiv.org/abs/2004.03786", 
+                  "name": "Downstream Model Design", 
+                  "performance": "{'数据集': [{'SemEval': [{'Precision': 94.2}, {'Recall': 88.0}, {'Micro-F1': 91.0}]}, {'NYT': [{'Precision': 94.2}, {'Recall': 85.7}, {'Micro-F1': 89.8}]}, {'WebNLG': [{'Precision': 97.0}, {'Recall': 95.7}, {'Micro-F1': 96.3}]}]}", 
+                  "quote": 4, 
+                  "task": "Relation Extraction", 
+                  "title": "Downstream Model Design of Pre-trained Language Model for Relation Extraction Task", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Trung Minh Nguyen,Thien Huu Nguyen", 
+                  "codeurl": "None", 
+                  "codinglanguage": "None", 
+                  "corporation": "Alt Inc.,Department of Computer and Information Science, University of Oregon", 
+                  "environment": "None", 
+                  "gitfork": "None", 
+                  "gitstar": "None", 
+                  "modelurl": "https://ojs.aaai.org//index.php/AAAI/article/view/4661", 
+                  "name": "One for All", 
+                  "performance": "{'数据集': [{'ACE 2005': [{'Precisions': 70.5}, {'Recalls': 74.5}, {'F1': 72.5}]}]}", 
+                  "quote": 33, 
+                  "task": "Event Extraction", 
+                  "title": "One for All: Neural Joint Modeling of Entities and Events", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Zijun Sun,Chun Fan,Qinghong Han,Xiaofei Sun,Yuxian Meng,Fei Wu,Jiwei Li", 
+                  "codeurl": "https://github.com/ShannonAI/Self_Explaining_Structures_Improve_NLP_Models", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Zhejiang University,Computer Center of Peking University,Peng Cheng Laboratory,Shannon.AI", 
+                  "environment": "Pytorch", 
+                  "gitfork": 1, 
+                  "gitstar": 11, 
+                  "modelurl": "https://arxiv.org/abs/2012.01786", 
+                  "name": "Self-Explaining Structures", 
+                  "performance": "{'数据集': [{'IWSLT 2014 En!De': [{'BLEU': 28.9}]}, {'SST-5': [{'Accuracy': 59.1}, {'F-S': 38.4}, {'S-F': 54.9}, {'S-S': 42.9}]}, {'SNLI': [{'Accuracy': 92.3}, {'IOU F1': 0.454}, {'Token F1': 0.571}, {'F-S': 74.5}, {'S-F': 88.5}, {'S-S': 79.2}]}, {'Movie Review': [{'IOU F1': 0.152}, {'Token F1': 0.314}]}]}", 
+                  "quote": "None", 
+                  "task": "Natural Language Inference", 
+                  "title": "Self-Explaining Structures Improve NLP Models", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Jonathan Pilault,Amine El hattami,Christopher Pal", 
+                  "codeurl": "None", 
+                  "codinglanguage": "None", 
+                  "corporation": "Polytechnique Montreal & Mila,Element AI,CIFAR AI Chair", 
+                  "environment": "None", 
+                  "gitfork": "None", 
+                  "gitstar": "None", 
+                  "modelurl": "https://arxiv.org/abs/2009.09139", 
+                  "name": "Conditionally Adaptive Multi-Task Learning", 
+                  "performance": "{'数据集': [{'WNUT2017': [{'F1': 58.0}]}, {'SciTail': [{'Accuracy': 96.8}]}, {'SNLI': [{'Accuracy': 92.1}]}]}", 
+                  "quote": "None", 
+                  "task": "Natural Language Inference", 
+                  "title": "Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Colin Raffel,Noam Shazeer,Adam Roberts,Katherine Lee,Sharan Narang,Michael Matena,Yanqi Zhou,Wei Li,Peter J. Liu", 
+                  "codeurl": "https://github.com/google-research/text-to-text-transfer-transformer", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Google, Mountain View, CA 94043, USA", 
+                  "environment": "TensorFlow", 
+                  "gitfork": 421, 
+                  "gitstar": 3113, 
+                  "modelurl": "https://arxiv.org/abs/1910.10683", 
+                  "name": "Exploring the Limits of Transfer Learning", 
+                  "performance": "{'数据集': [{'GLUE': [{'Average': 90.3}]}, {'CoLA': [{'Matthew’s': 71.6}]}, {'SST-2': [{'Accuracy': 97.5}]}, {'MRPC': [{'F1': 92.8}, {'Accuracy': 90.4}]}, {'STS-B': [{'Pearson': 93.1}, {'Spearman': 92.8}]}, {'QQP': [{'F1': 75.1}, {'Accuracy': 90.6}]}, {'MNLI-m': [{'Accuracy': 92.2}]}, {'MNLI-mm': [{'Accuracy': 91.9}]}, {'QNLI': [{'Accuracy': 96.9}]}, {'RTE': [{'Accuracy': 92.8}]}, {'WNLI': [{'Accuracy': 94.5}]}, {'SQuAD': [{'EM': 91.26}, {'F1': 96.22}]}, {'SuperGLUE': [{'Average': 88.9}]}, {'BoolQ': [{'Average': 91.2}]}, {'CB': [{'F1': 93.9}, {'Accuracy': 96.8}]}, {'COPA': [{'Accuracy': 94.8}]}, {'MultiRC': [{'F1a': 88.1}, {'EM': 63.3}]}, {'ReCoRD': [{'F1': 94.1}, {'Accuracy': 93.4}]}, {'RTE': [{'Accuracy': 92.5}]}, {'WiC': [{'Accuracy': 76.9}]}, {'WSC': [{'Accuracy': 93.8}]}, {'WMT EnDe': [{'BLEU': 32.1}]}, {'WMT EnFr': [{'BLEU': 43.4}]}, {'WMT EnRo': [{'BLEU': 28.1}]}, {'CNN/DM': [{'ROUGE-1': 43.52}, {'ROUGE-2': 21.55}, {'ROUGE-L': 40.69}]}]}", 
+                  "quote": 575, 
+                  "task": "Natural Language Inference", 
+                  "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Mandar Joshi,Danqi Chen,Yinhan Liu,Daniel S. Weld,Luke Zettlemoyer,Omer Levy", 
+                  "codeurl": "https://github.com/facebookresearch/SpanBERT", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Allen School of Computer Science & Engineering, University of Washington, Seattle, WA,Computer Science Department, Princeton University, Princeton, NJ,Allen Institute of Artificial Intelligence, Seattle,Facebook AI Research, Seattle", 
+                  "environment": "Pytorch", 
+                  "gitfork": 95, 
+                  "gitstar": 500, 
+                  "modelurl": "https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00300", 
+                  "name": "SpanBERT", 
+                  "performance": "{'数据集': [{'SQuAD 1.1': [{'EM': 88.8}, {'F1': 94.6}]}, {'SQuAD 2.0': [{'EM': 85.7}, {'F1': 88.7}]}, {'NewsQA': [{'F1': 73.6}]}, {'TriviaQA': [{'F1': 83.6}]}, {'SearchQA': [{'F1': 84.5}]}, {'HotpotQA': [{'F1': 83.0}]}, {'Natural Questions': [{'F1': 82.5}]}, {'CoLA': [{'Accuracy': 64.3}]}, {'SST-2': [{'Accuracy': 94.8}]}, {'MRPC': [{'F1': 90.9}, {'Accuracy': 87.9}]}, {'STS-B': [{'Pearson correlation': 89.9}, {'Spearmanr correlation': 89.1}]}, {'QQP': [{'F1': 71.9}, {'Accuracy': 89.5}]}, {'MNLI': [{'matched accuracies and accuracy for all the other tasks': 88.1}, {'mistached accuracies and accuracy for all the other tasks': 87.7}]}, {'QNLI': [{'Accuracy': 94.3}]}, {'RTE': [{'Accuracy': 79.0}]}]}", 
+                  "quote": 282, 
+                  "task": "Machine Reading Comprehension", 
+                  "title": "SpanBERT: Improving Pre-training by Representing and Predicting Spans", 
+                  "year": 2020
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Yuwei Fang,Siqi Sun,Zhe Gan,Rohit Pillai,Shuohang Wang,Jingjing Liu", 
+                  "codeurl": "https://github.com/yuwfan/HGN", 
+                  "codinglanguage": "Python", 
+                  "corporation": "Microsoft Dynamics 365 AI Research", 
+                  "environment": "Pytorch", 
+                  "gitfork": 5, 
+                  "gitstar": 32, 
+                  "modelurl": "https://arxiv.org/abs/1911.03631", 
+                  "name": "Hierarchical Graph Network", 
+                  "performance": "{'数据集': [{'HotpotQA': [{'Ans EM': 69.22}, {'Ans F1': 82.19}, {'Sup EM': 62.76}, {'Sup F1': 88.47}, {'Joint EM': 47.11}, {'Joint F1': 74.21}]}]}", 
+                  "quote": 29, 
+                  "task": "Machine Reading Comprehension", 
+                  "title": "Hierarchical Graph Network for Multi-hop Question Answering", 
+                  "year": 2019
+            }
+      }, 
+      {
+            "n": {
+                  "author": "YuxiangWu,Baotian Hu", 
+                  "codeurl": "Null", 
+                  "codinglanguage": "Null", 
+                  "corporation": "Hong Kong University of Science and Technology,University of Massachusetts Medical School", 
+                  "environment": "Null", 
+                  "gitfork": "Null", 
+                  "gitstar": "Null", 
+                  "modelurl": "https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16838/16118", 
+                  "name": "Learning to Extract Coherent Summary via Deep Reinforcement Learning", 
+                  "performance": "{'数据集': {'CNN / Daily Mail': {'ROUGE-1': 41.25, 'ROUGE-2': 18.87, 'ROUGE-L': 37.75}}}", 
+                  "quote": 58, 
+                  "task": "文本摘要", 
+                  "title": "Learning to Extract Coherent Summary via Deep Reinforcement Learning", 
+                  "year": 2018
+            }
+      }, 
+      {
+            "n": {
+                  "author": "Aishwarya Jadhav,Vaibhav Rajan", 
+                  "codeurl": "Null", 
+                  "codinglanguage": "Null", 
+                  "corporation": "Indian Institute of Science,School of Computing National University of Singapore", 
+                  "environment": "Null", 
+                  "gitfork": "Null", 
+                  "gitstar": "Null", 
+                  "modelurl": "https://www.aclweb.org/anthology/P18-1014.pdf", 
+                  "name": "Extractive Summarization with SWAP-NET", 
+                  "performance": "{'数据集': {'CNN / Daily Mail': {'ROUGE-1': 41.6, 'ROUGE-2': 18.3, 'ROUGE-L': 37.7}}}", 
+                  "quote": 39, 
+                  "task": "文本摘要", 
+                  "title": "Extractive Summarization with SWAP-NET:Sentences and Words from Alternating Pointer Networks", 
+                  "year": 2018
+            }
+      }
+]
